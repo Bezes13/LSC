@@ -6,3 +6,4 @@
 - https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/
 - https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4150
 - https://github.com/Deepthi10/Intrusion-Detection-using-Machine-Learning-on-NSL--KDD-dataset
+- https://github.com/Mamcose/NSL-KDD-Network-Intrusion-Detection/blob/master/NID.ipynb

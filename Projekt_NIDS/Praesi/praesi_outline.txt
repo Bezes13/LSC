@@ -1,0 +1,20 @@
+Intro
+    Network Intrusion Detection
+
+Datensatz
+    NSL KDD
+    Warum diese
+    Eigenheiten
+    Eigene Erkenntnisse
+
+Ansatz
+    Splitten?
+    Bestes Modell
+
+Ergebnisse
+    Komplett
+    Split
+
+Zusammenfassung
+
+Vielen Dank! Thüssi Kovski
